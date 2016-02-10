@@ -12,4 +12,7 @@ $ python install.py
 ```
 
 ## Requirements
-`matplotlib` version 1.4+
+[matplotlib](http://www.matplotlib.org) version 1.4+
+
+## See Also
+[Tony Su's style gallery](http://tonysyu.github.io/raw_content/matplotlib-style-gallery/gallery.html)
